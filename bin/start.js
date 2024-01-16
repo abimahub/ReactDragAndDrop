@@ -56,7 +56,7 @@ exec(
     // npm will remove the .gitignore file when the package is installed, therefore it cannot be copied
     // locally and needs to be downloaded.
     https.get(
-      "https://github.com/abimahub/reactjsPWA/.gitignore",
+      "https://github.com/abimahub//ReactDragAndDrop/.gitignore",
       (res) => {
         res.setEncoding("utf8");
         let body = "";
