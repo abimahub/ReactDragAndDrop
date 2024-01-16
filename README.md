@@ -1,4 +1,5 @@
-![Alt text](src/logo.svg) # ReactDragAndDrop
+![Alt text](src/logo.svg) 
+# ReactDragAndDrop
 
 A basic boilerplate for creating a react app, without using Create React App.
 
