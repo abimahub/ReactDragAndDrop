@@ -1,4 +1,4 @@
-# ReactDragAndDrop  [image] ![Alt text](src/logo.svg)
+# ReactDragAndDrop ![Alt text](src/logo.svg)
 A basic boilerplate for creating a react app, without using Create React App.
 
 To use this template, input the terminal command:
