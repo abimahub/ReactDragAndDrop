@@ -14,7 +14,7 @@ Photo by Rostislav Uzunov: https://www.pexels.com/photo/purple-and-pink-diamond-
 in new empty folder:
   *  npm init
   *  git init    
-  *  npx @abimahub/reactappboilerplate my-app   ##where my-app is whatever you want to name your app
-  *  cd my-app    ##to move into the new app
+  *  npx @abimahub/reactappboilerplate my-app   (where my-app is whatever you want to name your app)
+  *  cd my-app    (to move into the new app)
   *  npm start
-  *  npm build  ## or npm run build
+  *  npm build   (or npm run build)
